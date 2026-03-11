@@ -1,4 +1,6 @@
 # skills
 gsd-skill-creator skills
 
-<a href="https://github.com/Tibsfox/">gsd-skill-creator skill</a> by <a href="https://tibsfox.com">Tibsfox</a> is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+Licensed under the [Business Source License 1.1](./LICENSE) (BSL 1.1).
+
+See [LICENSE](./LICENSE) for details. Converts to GPL 3.0 on 2030-03-11.
